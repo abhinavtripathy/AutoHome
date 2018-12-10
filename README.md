@@ -1,4 +1,6 @@
 # AutoHome @ BostonHacks
+## Prize: Track prize for best smart home project & Liberty Mutual sponsor prize for "Best Hack to Live Safe, More Secure Lives”
+
 ## Inspiration
 We invest a lot of time and money making our homes work for us. Right from buying the house and buying smart appliances that save power and give you more control over the way you want your house to be setup to be comfortable for you, there's a large cost and involvement required. You lose a lot of time doing simple tasks such as adjusting the lights or adjusting the temperature in the house. These everyday tasks have a lot of scope for automation. Our project AutoHome presents a smart home solution that works for you by automating these everyday tasks. AutoHome is more a cost-effective, more efficient solution to operate all the devices at a home, monitor and control them remotely and securely. Further, it has safety features such as emergency texts, gas sensors to detect emergencies int he house which is quite relevant for people with memory related problems such as people with Alzheimer's.
 
